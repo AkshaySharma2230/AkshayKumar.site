@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "skillName": "iOS",
+      "class": "devicon-apple-original"
+    },
+    {
+      "skillName": "Realm",
+      "class": "devicon-realm-plain"
+    },
+    {
+      "skillName": "HTML",
+      "class": "devicon-html5-plain"
+    },
+    {
+      "skillName": "CSS",
+      "class": "devicon-css3-plain"
+    },
+    {
+      "skillName": "Android",
+      "class": "devicon-android-plain"
+    },
+    {
+      "skillName": "XCode",
+      "class": "devicon-xcode-plain"
+    },
+    {
+      "skillName": "Android Studio",
+      "class": "devicon-androidstudio-plain"
+    },
+    {
+      "skillName": "Firebase",
+      "class": "devicon-firebase-plain"
+    },
+    {
+      "skillName": "Github",
+      "class": "devicon-github-original"
+    },
+    {
+      "skillName": "Gitlab",
+      "class": "devicon-gitlab-plain"
+    },
+    {
+      "skillName": "Bitbucket",
+      "class": "devicon-bitbucket-original"
+    },
+    {
+      "skillName": "Sourcetree",
+      "class": "devicon-sourcetree-original"
+    },
+    {
+      "skillName": "Trello",
+      "class": "devicon-trello-plain"
+    },
+    {
+      "skillName": "JIRA",
+      "class": "devicon-jira-plain"
+    },
+    {
+      "skillName": "Swift",
+      "class": "devicon-swift-plain"
+    },
+    {
+      "skillName": "Swagger",
+      "class": "devicon-swagger-plain"
+    },
+    {
+      "skillName": "Slack",
+      "class": "devicon-slack-plain"
+    },
+    {
+      "skillName": "Flutter",
+      "class":"devicon-flutter-plain"
+    },
+    {
+      "skillName": "Figma",
+      "class": "devicon-figma-plain"
+    }
+  ]
+}

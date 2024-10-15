@@ -1,0 +1,59 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "link": "https://www.stealthtechnocrats.com/",
+      "company": "Stealth Technocrats",
+      "title": "Mobile App Developer",
+      "dateFrom": "Sept 2019",
+      "dateTo": "Feb 2023",
+      "info": [
+       "Responsible for Native Development & design."
+      ],
+      "stack": [
+        "Swift",
+        "CocoaPods",
+        "MVVM",
+        "iPad Development",
+        "iOS Design",
+        "Firebase",
+        "Xcode",
+        "MVC",
+        "Figma",
+        "Bitbuket",
+        "Github"
+      ],
+      "logowidth": 100,
+      "colourPrimary": "linear-gradient(to bottom, #ffffff 0%, #ffffff 100%, #ffffff 100%)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff 0%, #ffffff 50%, #ed4043 100%)"
+
+    },
+    {
+      "id": 0,
+      "link": "https://www.code-brew.com/",
+      "company": "Code Brew Labs",
+      "title": "Sr. iOS Mobile App developer",
+      "dateFrom": "Sep 2024",
+      "dateTo": "Current",
+      "info": [
+        "Responsible for Team Handling",
+        "Responsible for Native Development & design."
+      ],
+      "stack": [
+        "CocoaPods",
+        "MVVM",
+        "iPad Development",
+        "iOS Design",
+        "Firebase",
+        "Xcode",
+        "MVC",
+        "Figma",
+        "Bitbuket",
+        "Github"
+      ],
+      "logoheight": 100,
+      "colourPrimary": "linear-gradient(to bottom, #ffffff 0%, #ffffff 100%, #ffffff 100%)",
+      "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
+    }
+  ]
+}
