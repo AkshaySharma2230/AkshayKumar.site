@@ -1,6 +1,28 @@
 {
   "experience": [
     {
+      "id": 2,
+      "link": "https://www.omninos.com",
+      "company": "Omninos SOlutions",
+      "title": "Sr. iOS Mobile App developer",
+      "dateFrom": "Sep 2024",
+      "dateTo": "Current",
+      "info": [
+        "Traning in mobile Application"
+       
+      ],
+      "stack": [
+        "CocoaPods",
+        "MVC",
+        "iOS Design",
+        "Xcode",
+        "MVC"
+      ],
+      "logoheight": 100,
+      "colourPrimary": "linear-gradient(to bottom, #5EBAC1 0%, #5EBAC1 100%, #ffffff 100%)",
+      "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
+    },
+    {
       "id": 1,
       "link": "https://www.stealthtechnocrats.com/",
       "company": "Stealth Technocrats",
